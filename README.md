@@ -1,2 +1,2 @@
 # marvel
-marvel-em-criação https://leomarqueti.github.io/marvel/
+exercio de treinamento - https://leomarqueti.github.io/marvel/
